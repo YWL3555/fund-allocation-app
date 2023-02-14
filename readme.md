@@ -31,6 +31,8 @@ customer.handleDeposits(deposits)
 customer.printCustomerDetails()
 ```
 
+6. Run main.py
+
 ## High Level Explanation
 
 In this small application, user can create multiple customers and portfolios.
